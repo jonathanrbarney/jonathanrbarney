@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ```math
-\ce{$\unicode[font-family: monospace; font-size: 14px; color: #333; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background-image: linear-gradient(to bottom, #3498db, #8e44ad);]{x0000}$}
+\ce{$\unicode[font-family: monospace; font-size: 14px; color: #333; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background-image: repeating-linear-gradient(to bottom, #3498db, #8e44ad), repeating-linear-gradient(to right, #3498db, #8e44ad);]{x0000}$}
