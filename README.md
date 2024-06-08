@@ -14,6 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-```math
-\ce{$\unicode[goombafont; color:flex; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: 
-  linear-gradient(to right, #ff69b4, #33ccff);]{x0000}$}
