@@ -1,16 +1,13 @@
-## Hi there 👋
+my passion lies on the instersection of politics + programming + philosophy
 
-<!--
-**jonathanrbarney/jonathanrbarney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+for all difficult problems there exists an elegant, efficient solution
 
-Here are some ideas to get you started:
+i work at Alt Exchange creating elegant, scalable software solutions to complex problems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+i specialize in software architecture + development
+
+expatriate-raised in singapore + guatemala + dubai + phillipines
+
+my current interests are economics, golang, hiking, reading, machine learning, leadership, political theory, penetration testing, python, cloud computing, process automation, running, soccer, photography, typescript
+
+if you would like to chat feel free to message me on linkedin 
