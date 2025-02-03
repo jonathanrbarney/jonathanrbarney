@@ -10,4 +10,4 @@ expatriate-raised in singapore + guatemala + dubai + phillipines
 
 my current interests are economics, golang, hiking, reading, machine learning, leadership, political theory, penetration testing, python, cloud computing, process automation, running, soccer, photography, typescript
 
-if you would like to chat feel free to message me on linkedin 
+if you would like to chat feel free to message me
