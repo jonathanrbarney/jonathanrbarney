@@ -4,7 +4,7 @@ for all difficult problems there exists an elegant, efficient solution
 
 i work at Alt Exchange creating elegant, scalable software solutions to complex problems
 
-i specialize in software architecture + development
+i specialize in software engineering + development
 
 expatriate-raised in singapore + guatemala + dubai + phillipines
 
