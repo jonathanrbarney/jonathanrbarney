@@ -6,8 +6,6 @@ i work at Alt Exchange creating elegant, scalable software solutions to complex 
 
 i specialize in software engineering + development
 
-expatriate-raised in singapore + guatemala + dubai + phillipines
-
 my current interests are economics, golang, hiking, reading, machine learning, leadership, political theory, penetration testing, python, cloud computing, process automation, running, soccer, photography, typescript
 
 if you would like to chat feel free to message me
